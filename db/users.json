@@ -1,1 +1,30 @@
-{}
+{
+  "ii2iiii1": {
+    "username": "ii2iiii1",
+    "password": "abdoly492008A",
+    "student_type": "علمي",
+    "telegram_user_id": "6576165450",
+    "telegram_username": "ii2iiii1",
+    "telegram_first_name": "بـكـوري •",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_42.jpg",
+    "session_id": "dcf969da-0499-4378-9829-48cb98d4a7c6",
+    "created_at": "2026-05-11T03:52:13.087377",
+    "verified": true,
+    "last_login": "2026-05-11T06:40:25.529493",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "physics_electric",
+      "biology",
+      "physics_mechanic",
+      "chemistry",
+      "it",
+      "statistics",
+      "english",
+      "math",
+      "literary_studies",
+      "linguistic_studies"
+    ],
+    "server_num": 34
+  }
+}
