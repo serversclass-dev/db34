@@ -26,5 +26,23 @@
       "linguistic_studies"
     ],
     "server_num": 34
+  },
+  "roaa": {
+    "username": "roaa",
+    "password": "R0934709441&a",
+    "student_type": "علمي",
+    "telegram_user_id": "8404387273",
+    "telegram_username": null,
+    "telegram_first_name": "Roaa",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_84.jpg",
+    "session_id": "0f4a0761-8526-4d0d-8fb5-96c729de5fd7",
+    "created_at": "2026-05-12T23:22:33.797272",
+    "verified": true,
+    "last_login": "2026-05-12T23:22:37.227771",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 34
   }
 }
